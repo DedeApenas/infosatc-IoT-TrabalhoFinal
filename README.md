@@ -11,7 +11,7 @@
    O Sensor de Distancia irá disparar se houver presença no raio de 120cm,o Sensor de Temperatura dispara se a temperatura for maior que 40°C,o Fotorresistor irá disparar se a luminosidade for menor que 400, já o sensor de gás irá disparar se detectar a presença de gás ou fumaça no ambiente.Sempre que algum sensor disparar,os leds irão acender,um som será tocado e uma mensagem de perigo irá aparecer na tela do LCD.</blockquote>
 </ul>
 <ul>
-  <li><b>Componentes Utilizados:</b> Arduino Uno R3,Sensor de Distancia Ultrassônico,Piezo,Fotorresistor,Sensor de Temperatura[TMP36],Sensor de Gás,4 LEDs,7 Resistores,LCD 16X2,Potenciômetro.</li>
+  <li><b>Componentes Utilizados:</b> Arduino Uno R3,3 Placas de Ensaio,Sensor de Distancia Ultrassônico,Piezo,Fotorresistor,Sensor de Temperatura[TMP36],Sensor de Gás,4 LEDs,7 Resistores,LCD 16X2,Potenciômetro.</li>
 </ul>
 <img src="https://github.com/DedeApenas/infosatc-IoT-TrabalhoFinal/blob/main/imgprojeto.png">
 
